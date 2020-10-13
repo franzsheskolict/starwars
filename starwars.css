@@ -1,0 +1,53 @@
+.los_malos{
+    background-color: red;
+}
+.los_rebeldes{
+    background-color: blue;
+}
+#vader{
+    font-size: xx-large;
+}
+#luke{
+    font-style: italic;
+}
+.soldados{
+    border-color: green;
+    border-width: medium;
+    border-style: dashed;
+    letter-spacing: 2mm;
+}
+.apoyo{
+    text-align: center;
+}
+.naves{
+    text-transform: uppercase;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+    color: white;
+}
+@import url(https://allfont.es/allfont.css?fonts=star-jedi);
+.titulo{
+    font-family: 'Star Jedi', arial;
+}
+.titulo_principal{
+    font-family: 'Star Jedi', arial;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+img{
+    height: 200px;
+    width: auto; 
+}
+li{
+    list-style: none;
+}
+ul{
+    list-style: none;
+}
+h1{
+    border-color: red black green orange;
+    border-width: 10px;
+    border-style: solid;
+    text-align: center;
+}
